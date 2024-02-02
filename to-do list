@@ -3,6 +3,7 @@ from tkinter import messagebox
 window= Tk()
 window.geometry("700x700")
 window.title("to-do list")
+
 def submit():
     item=data.get()
     lst.insert(END,item)
