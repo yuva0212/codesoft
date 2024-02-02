@@ -1,4 +1,3 @@
-to create a to-do list
 from tkinter import *
 from tkinter import messagebox
 window= Tk()
